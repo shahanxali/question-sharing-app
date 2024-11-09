@@ -18,6 +18,11 @@ Question Creation and QR Generation: Teachers can create questions in the app an
 QR Code Scanning: Students can grant camera access to scan QR codes and retrieve questions.
 Answer Submission: Students view questions in real-time and can submit their answers within the app.
 
+## 📸 Screenshots
+
+![maon](https://github.com/user-attachments/assets/df8f0193-5bb0-4444-80e7-0ed7b0c6cafd)
+
+
 ## 🖥️ How It Works
 
 Teacher Mode:
